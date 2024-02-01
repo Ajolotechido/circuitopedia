@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>Circuito num 1-Circuitopedia</title>
+    </head>
+    <font color="#1C2833" face = "calibri">
+        <style>
+            a{
+                display:block;
+                width:700px;
+                font-family:Arial, Sans-serif;
+                font-weight: 800;
+                background-color: #7f8382 ;
+                border-radius: 1300px;
+                padding: 25px 50px;
+                margin: 150px 130px;
+                color: #17202A;
+                text-decoration:#6d706f;
+            }
+             a:hover{
+                background-color: ; 
+                border: 2px solid #000000;
+                color: #000000;
+            }
+        </style>
+            <center>
+                <h1>Circuitopedia</h1>
+                <h2>Prende un led con un boton</br>Circuito numero 1</h2>
+                <h3>Este es un circuito muy facil de realizar, ideal para comprender las <br> bases de la electronica</h3>
+                </br>
+                <h2>¿En que consiste este circuito?</h2>
+                <h3>Este circuito consiste en prender un led presionando un boton </br> (como era de esperarse), es un circuito basico que nos ayudara a <br> adentrarnos en el mundo de la electronica </h3>
+                <br>
+                <h2>Materiales:</h2>
+            </center>
+            <h3>-Una protoboard</h3>
+            <h3>-Resistencia 330/resistencia hm</h3>
+            <h3>-Un led</h3>
+            <h3>-Cables (jumpers o telefonico)</h3>
+            <h3>-Un boton para protoboard</h3>
+            <h3>-Una fuente de alimentacion</h3>
+            <center>
+                <h2>Empezemos con la realizacion</h2>
+                <h3>Primer paso</h3>
+                <h3>Para este circuito pondremos la protoboard "parada", ya posicionadaa asi lo primero <br> que haremos sera conectar un cable a voltaje, este cable lo conectamos a <br> otr aparte de la protoboard para conectar el boton</h3>
+                <h3>Segundo paso</h3>
+                <h3>Ahora conectaremos un pin del boton a la misma fila horizontal de donde conectamos <br> el cable, recuerden que el boton no tiene polaridad, asi que no importa de que lado lo conectes</h3>
+                <h3>Tercer paso</h3>
+                <h3>Despues vamos a conectar al pin que nos quedo libre una de las dos resistencias mencionadas, puedes <br> poner un cable antes de la resistencia si quieres tener todo mas ordenado, <br> despues conectamos una patita de la resistencia a el boton/a el cable que da al boton</h3>
+                <h3>Cuarto paso</h3>
+                <h3></h3>
+                <h3>Quinto paso</h3>
+                <h3>Ahora vamos a conectar el lado positivo del led a la resistencia, y el lado negativo lo conectaremos <br> a tierra (nagtivo), puedes conectar un cable para que haga de "puente" o puedes conectar <br> el led directamente a negativo, esto no afectara a el funcionamiento</h3>
+                <h3>Quinto paso</h3>
+                <h3>Ahora ya tenemos listo nuestro circuito, es hora de probar su fincionamiento, para esto <br> deberemos de alimentar la protoboard con cualquie metodo que querramos, una vez echo esto <br> deberemos de precionar el boton y el led debera de encenderse, y apagarse cuando soltemos <br> el boton</h3>
+                <h2>¡Y listo!</h2>
+                    <a href="index html"></a>
+                    <h4>¿Te sirvio esta guia?¡Seguiremos mejorando la pagina!</h4>
+            </center>
+    </font>
+</html>
